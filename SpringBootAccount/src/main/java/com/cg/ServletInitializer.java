@@ -3,7 +3,7 @@ package com.cg;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
-import com.cg.entity.SpringBootAccountApplication;
+import com.cg.SpringBootAccountApplication;
 
 public class ServletInitializer extends SpringBootServletInitializer {
 
